@@ -10,14 +10,21 @@ Discover and exploit a reflected cross-site scripting vulnerability in cPanel, a
 
 
 1.Open a terminal or command prompt.
+
 2.Navigate to the directory where you have saved the script.
+
 3.Make sure you have installed the necessary dependencies. You can install them by running the following command:
 pip install shodan
+
 4.Replace /path/to/CVE-2023-29489.yaml in the script with the actual path to the CVE-2023-29489.yaml file on your system.
+
 5.Run the script using the following command:
 python3 script.py
+
 6.Enter the target domain or IP address when prompted.
+
 7.The script will perform the Shodan search, extract the IPs and ports to CTRL.txt, and run the httpx and nuclei commands.
+
 8.The results will be stored in the outCVE-2023-29489.txt file.
 
 Make sure you have a valid Shodan API key and the necessary YAML template file (CVE-2023-29489.yaml) in the specified location for the nuclei command to work correctly.
