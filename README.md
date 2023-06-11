@@ -40,3 +40,12 @@ Let me know if you encounter any issues or need further assistance!
 
 # Notes
 It is recommended to use a VPS for optimal results.
+
+
+
+# Ref.
+https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/
+
+
+
+
