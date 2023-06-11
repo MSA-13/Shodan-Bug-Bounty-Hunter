@@ -31,5 +31,5 @@ Make sure you have a valid Shodan API key and the necessary YAML template file (
 Let me know if you encounter any issues or need further assistance!
 
 
-#Notes: 
+#Notes
 It is recommended to use a VPS for optimal results.
