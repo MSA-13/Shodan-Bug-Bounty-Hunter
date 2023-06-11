@@ -10,7 +10,7 @@ Discover and exploit a reflected cross-site scripting vulnerability in cPanel, a
 ## Shodan Query:
 sssl:"target.com" * 200 port:2083
 
-CLI: hodan search ssl:"hostpapa.com" port:2083
+CLI: hodan search ssl:"target.com" port:2083
 
 
 
